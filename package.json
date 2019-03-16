@@ -1,0 +1,23 @@
+{
+  "name": "docker-yyl",
+  "version": "3.4.7",
+  "description": "docker image for yyl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/docker-yyl.git"
+  },
+  "keywords": [
+    "docker",
+    "yyl"
+  ],
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/docker-yyl/issues"
+  },
+  "homepage": "https://github.com/jackness1208/docker-yyl#readme"
+}
